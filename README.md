@@ -6,7 +6,9 @@ The XRP/USDT pair forecast for December 28, 2021 was correctly forecasted based 
 Software codes and information are shared with you as open source code free of charge on GitHub and My Personal Web Address.
 
 Happy learning!
+
 Emirhan BULUT
+
 Senior Artificial Intelligence Engineer and Inventor
 
 
