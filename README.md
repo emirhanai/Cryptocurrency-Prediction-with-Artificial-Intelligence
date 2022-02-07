@@ -1,4 +1,5 @@
 # **Cryptocurrency-Prediction-with-Artificial-Intelligence**
+First Version.. Cryptocurrency Prediction with Artificial Intelligence (Deep Learning via LSTM Neural Networks)- Emirhan BULUT
 I developed Cryptocurrency Prediction (Deep Learning with LSTM Neural Networks) software with Artificial Intelligence. I predicted the fall on December 28, 2021 with 98.5% accuracy in the XRP/USDT pair. '0.009179626158151918' MAE Score, '0.0002120391943355104' MSE Score, 98.35% Accuracy Question software has been completed.
 
 The XRP/USDT pair forecast for December 28, 2021 was correctly forecasted based on data from Binance.
