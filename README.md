@@ -27,7 +27,7 @@ Senior Artificial Intelligence Engineer & Inventor
 
 `Pandas`
 
-`Scikit-learn (SKLEARN)`
+`Scikit-learn - (SKLEARN)`
 
 <img class="fit-picture"
      src="https://raw.githubusercontent.com/emirhanai/Cryptocurrency-Prediction-with-Artificial-Intelligence/main/XRP-1%20-%20PREDICTION.png"
